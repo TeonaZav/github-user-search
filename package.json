@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/TeonaZav/github-user-search.git",
+  "homepage": "https://github.com/TeonaZav/github-user-search",
   "name": "github-users",
   "version": "0.1.0",
   "private": true,
@@ -46,6 +46,7 @@
     ]
   },
   "devDependencies": {
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "gh-pages": "^4.0.0"
   }
 }
