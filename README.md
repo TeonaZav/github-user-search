@@ -7,7 +7,6 @@ This is a solution to the [GitHub user search app challenge on Frontend Mentor].
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Installing](#Installing)
@@ -33,11 +32,11 @@ Users should be able to:
 
 - 375px:
 
-| Dark                                    |     |
-| --------------------------------------- | --- |
-| <img src="/images/375.JPG" width="200"> |
+| Dark                              |                                   |
+| --------------------------------- | --------------------------------- |
+| <img src="./375.JPG" width="200"> | <img src="./768.JPG" width="200"> |
 
-## <img src="/images/1440.JPG" width="600">
+## <img src="./1440.JPG" width="600">
 
 ## My process
 
@@ -60,7 +59,7 @@ npm install
 npm start
 ```
 
-## .
+##
 
 ## Links
 
