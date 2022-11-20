@@ -1,16 +1,14 @@
 import React from "react";
-import { Info, Followers, Search, Header, Navbar, Repos } from ".";
+import { Info, Followers, Search, Header, Repos } from ".";
 import styled from "styled-components";
 import loadingImage from "../images/loading.gif";
 import { GithubContext } from "../context/context";
 const Home = () => {
   const { githubUser, loading } = React.useContext(GithubContext);
-  const { avatar_url } = githubUser;
 
   return (
     <Wrapper>
       <Header />
-      {/* <Navbar /> */}
       <div className="home">
         <div className="home-main-ct">
           <Search />
