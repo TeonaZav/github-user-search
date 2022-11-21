@@ -34,9 +34,9 @@ Users should be able to:
 
 | Dark                              |                                   |
 | --------------------------------- | --------------------------------- |
-| <img src="./375.JPG" width="200"> | <img src="./768.JPG" width="200"> |
+| <img src="./public/375.JPG" width="200"> | <img src="./public/768.JPG" width="200"> |
 
-## <img src="./1440.JPG" width="600">
+## <img src="./public/1440.JPG" width="600">
 
 ## My process
 
@@ -63,4 +63,4 @@ npm start
 
 ## Links
 
-- Solution URL(front-end): []
+- Solution URL(front-end): [https://teonazav.github.io/github-user-search/]
